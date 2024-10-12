@@ -7,11 +7,6 @@ body {
     padding: 2rem;
 }
 
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 @layer utilities {
   @keyframes gradient {
     0% {
